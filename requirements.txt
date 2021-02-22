@@ -1,0 +1,4 @@
+colorama>=0.4.1
+pyfiglet>=0.7
+random2>=1.0.1
+string-color>=1.2.1
